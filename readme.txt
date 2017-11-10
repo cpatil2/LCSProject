@@ -2,10 +2,10 @@
 
 //For the Longest Common Sub-sequence---------------------------
 
-//Version 1
+//Version 2
 
 
-This program take command line arguments.
+This program take command line arguments..
 
 
 Compile using command:
